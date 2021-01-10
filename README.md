@@ -1,1 +1,1 @@
-# AstarPathFinding-C-
+# AstarPathFinding-C++ MAT 3520
